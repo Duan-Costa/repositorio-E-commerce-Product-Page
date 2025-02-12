@@ -2,7 +2,8 @@
 
 <div align="center">
  
-![projeto 11](https://github.com/gabrielalencs/Frontend-Mentor-Challenges/assets/127636935/1720c574-092b-49d2-9be4-ef57a6186182)
+![WhatsApp Image 2025-02-12 at 20 00 40](https://github.com/user-attachments/assets/c759c0d0-5f72-4c7f-8c61-dd5936fb6e12)
+
 </div>
 
 
@@ -50,4 +51,4 @@ Fiquei satisfeito com o resultado final
  
 Para realizar o deploy da minha aplicação, utilizei a própria ferramenta de hospedagem do GitHub, o **GitHub Pages**
 <br>
-<a href="https://gabrielalencs.github.io/Frontend-Mentor-Challenges/E-commerce%20Product%20Page/">Clique Aqui </a> para visualizar a aplicação.
+<a href="https://github.com/Duan-Costa/repositorio-E-commerce-Product-Page/edit/main/readme.md/">Clique Aqui </a> para visualizar a aplicação.
